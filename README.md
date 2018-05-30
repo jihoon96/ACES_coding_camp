@@ -1,2 +1,1 @@
-# ACES_coding_camp
-ACES coding camp resources
+All files are related to ACES coding camp season5.
